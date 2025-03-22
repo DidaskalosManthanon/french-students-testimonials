@@ -6,7 +6,7 @@ const testimonials = [
     },
     {
         name: "Anne",
-        photo: "./pics/anne.vif",
+        photo: "./pics/anne.avif",
         text: `Laurent has tutored me in French Conversation. I greatly enjoy the lessons; there's no doubt that my conversational French has improved and I've had a lot of fun exploring the linguistics of European languages. I can certainly recomment Laurent as a French Tutor.`
     },
     {
